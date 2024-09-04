@@ -1,0 +1,7 @@
+.Color {
+    display: flex;
+    justify-content: space-evenly ;
+    list-style: none;
+    align-items: center;
+    padding: 10px;
+}
